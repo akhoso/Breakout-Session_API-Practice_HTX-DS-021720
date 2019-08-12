@@ -15,7 +15,8 @@ APIs and Python Lesson Plan
 **Amount of time**: 1 hour <br/>
 **Author**: Rachel Hirsch.  
 ​
-​(Adapted from the ds-lesson-starters repository here)[https://github.com/learn-co-curriculum/ds-lessons-starter/tree/master/lesson-plans-by-mod/Module-2/apis-guided-into-brick-12-pt1]
+​Adapted from the ds-lesson-starters repository [here](https://github.com/learn-co-curriculum/ds-lessons-starter/tree/master/lesson-plans-by-mod/Module-2/apis-guided-into-brick-12-pt1)
+
 ***
 
 #### Lesson Summary:
