@@ -20,7 +20,7 @@ APIs and Python Lesson Plan
 
 #### Lesson Summary:
 
-This lesson introduces the what and why of APIs followed by introductory examples of how to write some simple API requests using the requests package.
+This lesson introduces the what and why of APIs followed by introductory examples of how to write some simple API requests using the requests package. The lesson gives some good backgrounds on HTTP requests and response status codes. Another package, `sodapy` is also introduced to make http requests to the NYC 311 API. Students are asked to investigate the structure of the data they receive and perform some initial exploratory analysis throughout.
 
 #### Topic:
 
