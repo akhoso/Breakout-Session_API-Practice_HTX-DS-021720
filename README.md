@@ -13,9 +13,9 @@ APIs and Python Lesson Plan
 **Mod**: Module 2   V2                 <br/>
 **Topic**: APIs and Python  <br/>
 **Amount of time**: 1 hour <br/>
-**Author**: Rachel Hirsch
+**Author**: Rachel Hirsch.  
 ​
-​(Adapted from the ds-lesson-starters repository here)[]
+​(Adapted from the ds-lesson-starters repository here)[https://github.com/learn-co-curriculum/ds-lessons-starter/tree/master/lesson-plans-by-mod/Module-2/apis-guided-into-brick-12-pt1]
 ***
 
 #### Lesson Summary:
@@ -44,10 +44,6 @@ Lists and dictionaries.
   - Access data from an API using custom libraries and the requests library
   - Create a pandas dataframe from the data returned from an API and visualize the data
 
-* Understand the concept of APIs
-* Make API get requests
-* Write Get request headers
-* Parse an http response
 
 #### Key Takeaways
 
